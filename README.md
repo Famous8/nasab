@@ -1,7 +1,13 @@
-The Gramps Project ( https://gramps-project.org ) - but modern - and made with Qt.
+Work in progress, the Nasab Genealogy app.
 ===================
 
-I am currently working on making an updated and modern version of the genealogy software, Gramps, as well as "upgrading" the UI to Qt from Gtk. Below you can view some screenshots and a video of the prototype design for this Gramps remake/skin.
+I am currently working on making a modern and easy to use genealogy app based on Gramps using the Python frameworks for Qt6
+
+Working features - which still require a lot of work!
+ - Gedcom parser
+ - List of people
+ - List of families
+ - View profile
 
 https://user-images.githubusercontent.com/68285175/229567878-008963ad-8321-412a-b7e0-efee1ae133de.mp4
 
