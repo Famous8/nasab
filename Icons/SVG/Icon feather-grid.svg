@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Icon_feather-grid" data-name="Icon feather-grid" transform="translate(-3 -3)">
+    <path id="Path_15" data-name="Path 15" d="M4.5,4.5H15V15H4.5Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Path_16" data-name="Path 16" d="M21,4.5H31.5V15H21Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Path_17" data-name="Path 17" d="M21,21H31.5V31.5H21Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Path_18" data-name="Path 18" d="M4.5,21H15V31.5H4.5Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  </g>
+</svg>
